@@ -1,0 +1,25 @@
+Não vou mais fazer como esta no diagrama
+
+
+projeto vai ter apenas 
+
+id 
+nome 
+"tipo" sera trocado por "descrição".
+
+
+*** projeto nao vai ter conexão com o usuario ***
+
+
+
+requisito tambem nao tera conexão com usuario
+
+
+todos os usuarios vao poder vizualizar todos os projetos.
+
+
+ver sobre versionamento, como fazer etcc
+
+
+
+adicionar tambem no banco de dados uma variavel "grau de complexidade" nos requisitos
